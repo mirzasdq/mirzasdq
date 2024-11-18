@@ -1,7 +1,7 @@
 # Hii!! 👋 My name is Mirza As-Siddiq 
 ## Student of Bachelor in Computer Science (Data Engineering) with Honours
 
-I started my journey in programming last year during my foundation in [Universiti Malaya](https://www.um.edu.my/) and currently, I'm studying at [Universiti Teknologi Malaysia](https://www.utm.my/). Right now, I'm eager to learn new things and open to any opportunities that can increase my knowledge and experience.
+I started my journey in programming last year during my foundation in [Universiti Malaya](https://www.um.edu.my/) and currently, I'm studying at [Universiti Teknologi Malaysia](https://www.utm.my/). I'm eager to learn new things and open to any opportunities that can increase my knowledge and experience.
 
 - 📫 Reach out to me at [miruza.sdq@gmail.com](mailto:miruza.sdq@gmail.com)
 
