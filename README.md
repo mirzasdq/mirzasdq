@@ -4,7 +4,7 @@
 I started my journey in programming last year during my foundation in [Universiti Malaya](https://www.um.edu.my/) and currently, I'm studying at [Universiti Teknologi Malaysia](https://www.utm.my/). I'm eager to learn new things and open to any opportunities that can increase my knowledge and experience.
 
 - 📫 Reach out to me at [miruza.sdq@gmail.com](mailto:miruza.sdq@gmail.com)
-- 🌍 Connect with me through my website at [mirzasdq.github.io](mirzasdq.github.io)
+- 🌍 Connect with me through my website at [mirzasdq.github.io](https://mirzasdq.github.io)
 
 <!---
 mirzasdq/mirzasdq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
