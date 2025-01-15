@@ -5,6 +5,7 @@ I started my journey in programming last year during my foundation in [Universit
 
 - 📫 Reach out to me at [miruza.sdq@gmail.com](mailto:miruza.sdq@gmail.com)
 - 🌍 Connect with me through my website at [mirzasdq.github.io](https://mirzasdq.github.io)
+- 🔍 My Linked In: [mirza as-siddiq](https://www.linkedin.com/in/mirza-as-siddiq-9a6989335/)
 
 <!---
 mirzasdq/mirzasdq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
